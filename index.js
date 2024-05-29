@@ -12,7 +12,7 @@ app.use(cookieParser());
 app.use(
   cors({
     origin: [
-      "http://localhost:5174",
+      "http://localhost:5173",
       "https://product-information-syst-ea434.firebaseapp.com",
       "https://product-information-syst-ea434.web.app",
     ],
